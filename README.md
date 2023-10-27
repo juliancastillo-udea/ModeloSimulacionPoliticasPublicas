@@ -1,5 +1,5 @@
 # Modelo de Simulación Politicas Públicas Rurales Medellín
-
+# Por: Julian Andres Castillo Grisales.
 ## Resumen
 
 Medellín cuenta con una importante demanda de alimentos frescos, pero al mismo tiempo el 70% de su territorio es rural, donde no sólo ofrece servicios ambientales, sino que produce alrededor de 29.000 toneladas/año de alimentos, lo que lo convierte en una excelente alternativa para proveer alimentos “0 kilómetros” a la ciudad.
